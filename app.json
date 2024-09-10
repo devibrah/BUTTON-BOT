@@ -15,42 +15,42 @@
       "value": ""
     },
     "MODE": {
-      "description": "Enter true for public. no for private",
+      "description": "Enter public or private",
       "required": true,
       "value": "public"
     },
     "AUTO_STATUS_SEEN": {
-      "description": "Enter true for autoview status. no for no",
+      "description": "Enter true for autoview status. Or leave blank",
       "required": false,
       "value": ""
     },
     "AUTO_READ": {
-      "description": "Enter true for autoread messages. no for no",
+      "description": "Enter true for autoread messages. Or leave blank",
       "required": false,
       "value": ""
     },
     "AUTO_TYPING": {
-      "description": "Enter true for autotype. no for no",
+      "description": "Enter true for autotype. Or leave blank",
       "required": false,
       "value": ""
     },
     "AUTO_RECORDING": {
-      "description": "Enter true if you want bot to show recording audio",
+      "description": "Enter true if you want bot to show recording audio. Or leave blank",
       "required": false,
       "value": ""
     },
     "ALWAYS_ONLINE": {
-      "description": "Enter it true if you want bot to show always online",
+      "description": "Enter it true if you want bot to show always online. Or leave blank",
       "required": false,
       "value": ""
     },
     "AUTO_BLOCK": {
-      "description": "Enter it true if you want bot to auto block only 212 numbers",
+      "description": "Enter it true if you want bot to auto block only 212 numbers. Or leave blank",
       "required": false,
       "value": ""
     },
     "REJECT_CALL": {
-      "description": "Enter it true if you want to reject call",
+      "description": "Enter it true if you want to reject call Or leave blank",
       "required": false,
       "value": ""
    
