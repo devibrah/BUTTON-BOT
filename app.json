@@ -1,3 +1,4 @@
+
 {
   "name": "BMW MD",
   "description": "Best Whatsapp bot made by Ibrahim Adams",
@@ -53,11 +54,6 @@
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
-      "required": false,
-      "value": ""
-    },
-    "PREFIX": {
-      "description": "Enter your bot prefix eg .,+@#$¶∆×π",
       "required": false,
       "value": ""
     }
