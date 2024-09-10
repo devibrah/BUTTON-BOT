@@ -32,7 +32,7 @@
       "value": ""
     },
     "AUTO_TYPING": {
-      "description": "Enter true for autotype. false for no"",
+      "description": "Enter true for autotype. false for no",
       "required": false,
       "value": ""
     },
