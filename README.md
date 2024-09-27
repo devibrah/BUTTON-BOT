@@ -15220,11 +15220,11 @@
 ***
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/)
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/nomal.html)
 
 ****
 ⭕  DEPLOY ON [ RENDER ]
