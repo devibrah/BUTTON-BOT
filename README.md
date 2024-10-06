@@ -15182,10 +15182,13 @@
 </p>
 
 ---
+***
+<a href="https://bmw-md-web-by-ibrahim.vercel.app/"><img src="https://img.shields.io/badge/BMW%20MD%20WEB-skyblue" alt="BMW_MD_WEB" width="270"></a>
+
 
   ***
 
-<a href="buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </p>
 <p align="center">
@@ -15218,26 +15221,34 @@
 ### 🧚‍♀️IBRAHIM ADAM'S💫
 
 ***
+
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/)
+
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/nomal.html)
 
-****
+
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/RHWxSmRmDo8?si=LBaDe1lA3vdhS3Gx)
+
+***
+
 ⭕  DEPLOY ON [ RENDER ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://render.com)
 
-⭕  DEPLOY ON [ TOYSTACK ]
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/pxL3iQ4ZkL4?si=JYU3CFTPp8YdKOo5)
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+***
 
-⭕  DEPLOY ON [ KOYEB ]
+⭕  DEPLOY ON [ Panel ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
+
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
  # ⚡ BMW INFO
 ***
